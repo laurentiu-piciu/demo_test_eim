@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">demo_test_eim</string>
+    <string name="default_value">0</string>
+    <string name="press_me">PRESS ME!</string>
+    <string name="press_me_too">PRESS ME TOO!</string>
+    <string name="title_activity_practical_test01_secondary">Title Secondary Activity</string>
+    <string name="ok_value">OK</string>
+    <string name="cancel_value">CANCEL</string>
+    <string name="navigate_to_secondary_activity">NAVIGATE TO SECONDARY ACTIVITY</string>
 </resources>
